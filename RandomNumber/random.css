@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:2em;
+}
+#myButton{
+    font-size: 6em;
+    padding: 4px 20px;
+    border-radius: 10px;
+    color: #280551;
+    background-color: rgba(113, 27, 204, 0.221);
+    cursor: pointer;
+}
+
+
+.myLabel{
+     font-size: 4em;
+}
