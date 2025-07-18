@@ -26,19 +26,19 @@
 const PI = 3.14
 let radius;
 let circumference;
- //radius = window.prompt("Enter the radius");
-//radius = Number(radius);
+ radius = window.prompt("Enter the radius");
+radius = Number(radius);
 
-//circumference = 2 * PI * radius;
-//console.log(circumference);
+circumference = 2 * PI * radius;
+console.log(circumference);
 
-//document.getElementById("mySubmit").onclick = function(){
-  //  radius = document.getElementById("myInput").value;
-    //radius = Number(radius);
-    //circumference = 2 * PI * radius;
-    //document.getElementById("myH3").textContent = circumference + " cm"
+document.getElementById("mySubmit").onclick = function(){
+   radius = document.getElementById("myInput").value;
+    radius = Number(radius);
+    circumference = 2 * PI * radius;
+    document.getElementById("myH3").textContent = circumference + " cm"
 
-//}
+}
 
 
 
