@@ -1,5 +1,4 @@
 # 🔐 JavaScript Practice Repository
-> _“Master the basics. The rest will follow.”_
 
 Welcome to my **JavaScript Basics** repository!  
 This repo is a curated collection of hands-on mini-projects and essential practice files that I’ve built while learning JavaScript from scratch — **with a focus on strengthening my web development fundamentals for cybersecurity**.
@@ -48,6 +47,8 @@ As a **Cybersecurity enthusiast**, understanding how web technologies work is **
 
 **Oviya**  
 Student • Web Learner • Future Cybersecurity Professional  
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." – Patrick McKenzie
+
 [GitHub](https://github.com/Oviya-Babu) • [LinkedIn](https://www.linkedin.com/in/oviyab/)
 
 ---
